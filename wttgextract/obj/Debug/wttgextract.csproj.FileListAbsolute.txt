@@ -1,0 +1,5 @@
+C:\Users\nasko222\Documents\SharpDevelop Projects\wttgextract\wttgextract\bin\Debug\wttgextract.exe
+C:\Users\nasko222\Documents\SharpDevelop Projects\wttgextract\wttgextract\bin\Debug\wttgextract.pdb
+C:\Users\nasko222\Documents\SharpDevelop Projects\wttgextract\wttgextract\obj\Debug\wttgextract.csprojResolveAssemblyReference.cache
+C:\Users\nasko222\Documents\SharpDevelop Projects\wttgextract\wttgextract\obj\Debug\wttgextract.exe
+C:\Users\nasko222\Documents\SharpDevelop Projects\wttgextract\wttgextract\obj\Debug\wttgextract.pdb
